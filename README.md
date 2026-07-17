@@ -6,6 +6,16 @@
 
 ![Git 提交影响评估 LangGraph 工作流](assets/langgraph-workflow.png)
 
+## 运行效果
+
+### 飞书摘要卡片
+
+![飞书 Git 提交分析摘要示例](assets/feishu-summary-example.png)
+
+### 控制台进度日志
+
+![Git 提交分析运行日志示例](assets/runtime-logs-example.png)
+
 ## 快速开始
 
 ```powershell
