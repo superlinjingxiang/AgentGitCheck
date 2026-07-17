@@ -10,7 +10,7 @@
 
 ### 飞书摘要卡片
 
-![飞书 Git 提交分析摘要示例](assets/feishu-summary-example.png)
+<img src="assets/feishu-summary-example.png" alt="飞书 Git 提交分析摘要示例" width="360">
 
 ### 控制台进度日志
 
